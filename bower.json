@@ -1,0 +1,31 @@
+{
+  "name": "html2docx",
+  "version": "0.0.1",
+  "description": "HTML文档转换为DOCX",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yhf98/html2docx.git"
+  },
+  "main": "dist/html-docx.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "docx",
+    "vue3",
+    "html"
+  ],
+  "authors": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
